@@ -9,3 +9,6 @@ Ein Minecraft Datapack, dass dich nur für 100 Sekunden am Stück spielen lässt
 * Dieser muss den Befehl:```execute if score @p joinGame >= aimedValue joinGame run reload``` ausführen
 
 * Nur für den Singleplayer Modus geeignet.
+
+### Anmerkung:
+* Erstellt auf Wunsch von https://www.youtube.com/channel/UCDxn9-8mQKhIXr80unZxVIA
